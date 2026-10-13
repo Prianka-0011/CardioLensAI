@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/CardioLensAI.Backend/">
+    <Project Path="src/CardioLensAI.Backend/CardioLensAI.API/CardioLensAI.API.csproj" />
+    <Project Path="src/CardioLensAI.Backend/CardioLensAI.Application/CardioLensAI.Application.csproj" />
+    <Project Path="src/CardioLensAI.Backend/CardioLensAI.Domain/CardioLensAI.Domain.csproj" />
+    <Project Path="src/CardioLensAI.Backend/CardioLensAI.Infrastructure/CardioLensAI.Infrastructure.csproj" />
+  </Folder>
+</Solution>
